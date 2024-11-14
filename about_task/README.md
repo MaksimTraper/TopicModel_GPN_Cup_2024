@@ -1,7 +1,5 @@
 ### gpncup-october-2024
 
-![start.jpg](.assets/start.jpg)
-
 * [Правила проведения соревнования](docs/RULES.md)
 * [Описание задачи](docs/DESCRIPTION.md)
 
