@@ -8,35 +8,35 @@
 Для установки всех необходимых зависимостей выполните следующие шаги:
 
 1. Клонируйте репозиторий:
-```bash
-   git clone https://github.com/MaksimTraper/TopicModel_GPN_Cup_2024.git
-```
+    ```bash
+    git clone https://github.com/MaksimTraper/TopicModel_GPN_Cup_2024.git
+    ```
 
 2. Перейдите в директорию проекта:
-```
-   cd TopicModel_GPN_Cup_2024
-```
+    ```
+    cd TopicModel_GPN_Cup_2024
+    ```
 
 3. Создайте и активируйте виртуальное окружение:
-Для Linux/MacOS:
-```
-   python3 -m venv venv
-   source venv/bin/activate
-```
+    Для Linux/MacOS:
+    ```
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
 
-Для Windows:
-```
-   python -m venv venv
-   venv\Scripts\activate
-```
+    Для Windows:
+    ```
+    python -m venv venv
+    venv\Scripts\activate
+    ```
 
 4. Установите зависимости
-Если хотите установить зависимости для всего проекта, то используйте команду:
-```
-pip install -r all_requirements.txt
-```
+    Если хотите установить зависимости для всего проекта, то используйте команду:
+    ```
+    pip install -r all_requirements.txt
+    ```
 
-Если хотите установить зависимости только для блока с инференсом, то используйте команду:
-```
-pip install -r requirements_for_inference.txt
-```
+    Если хотите установить зависимости только для блока с инференсом, то используйте команду:
+    ```
+    pip install -r requirements_for_inference.txt
+    ```
